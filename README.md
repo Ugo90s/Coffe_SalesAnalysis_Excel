@@ -9,7 +9,7 @@ Dataset consists of 1000 record of customer order history, there are 3 different
 
 ## Data Analysis
 
-This project involves formatting dataset and use of xlookup and index functions to merge information from all 3 different dataset, additionally the use of pivot table to analyze data and finally a dashboard was created with pivot chart for ease of visualization and interaction.
+This project involves formatting dataset and use of xlookup and index functions to merge information from all 3 different dataset, additionally the use of pivot table to analyze data and finally a dashboard was created with pivot chart, timeline and slicers for ease of visualization and interaction.
 
 ## Tools/Functions used;
   - Xlookup
